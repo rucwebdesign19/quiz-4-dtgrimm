@@ -1,4 +1,9 @@
 
+:root {
+  font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+
+}
+
 body {
   background-color: #A52A2A;
 }
@@ -7,16 +12,33 @@ body {
   width: 300px;
   height: 100px;
   border: 1px MediumSeaGreen;
+  font-size: 16px;
 }
 
 .preamble {
   width: 300px;
   height: 100px;
   border: 1px MediumSeaGreen;
+  font-size: 16px;
 }
 
 .explanation {
   width: 300px;
   height: 100px;
   border: 1px MediumSeaGreen;
+  font-size: 16px;
+}
+
+.participation {
+  width: 300px;
+  height: 100px;
+  border: 1px MediumSeaGreen;
+  font-size: 16px;
+}
+
+.requirements {
+  width: 300px;
+  height: 100px;
+  border: 1px MediumSeaGreen;
+  font-size: 16px;
 }
