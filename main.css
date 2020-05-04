@@ -1,0 +1,22 @@
+
+body {
+  background-color: #A52A2A;
+}
+
+.intro {
+  width: 300px;
+  height: 100px;
+  border: 1px MediumSeaGreen;
+}
+
+.preamble {
+  width: 300px;
+  height: 100px;
+  border: 1px MediumSeaGreen;
+}
+
+.explanation {
+  width: 300px;
+  height: 100px;
+  border: 1px MediumSeaGreen;
+}
